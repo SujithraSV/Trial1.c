@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main()
+{
+printf("Name of the student=Sujithra.S.V ");
+printf("course name=computer science ");
+}
